@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/y2mate.is - Level Run But It s a SONIC Soundtrack-VFqCeHI62ss-128k-1694220736.mp3-3c5e045f10e6033f5b33ba1188a6b58c.mp3str"
+
+[deps]
+
+source_file="res://Sprites/الملفات الي بنحتاجها/y2mate.is - Level Run But It s a SONIC Soundtrack-VFqCeHI62ss-128k-1694220736.mp3"
+dest_files=[ "res://.import/y2mate.is - Level Run But It s a SONIC Soundtrack-VFqCeHI62ss-128k-1694220736.mp3-3c5e045f10e6033f5b33ba1188a6b58c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
