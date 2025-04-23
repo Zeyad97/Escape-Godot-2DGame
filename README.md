@@ -1,39 +1,53 @@
-🧩 Prison Escape Puzzle Game - Godot
-This is a **2D puzzle game** developed using **Godot Engine**, available for **PC and mobile**, where the player must push boxes in a specific order and solve spatial puzzles to escape from a prison.
+# 🔒 Prison Escape Puzzle Game  
+_A 2D Puzzle Game built with Godot Engine — Available on PC & Mobile_
 
-🎮 Game Concept
-You’re trapped in a prison cell. The only way out? Solve a series of increasingly difficult box puzzles! Each level is a new challenge where boxes must be moved to the correct target positions without blocking your own path.
+---
 
-Inspired by classic Sokoban-style gameplay, but with a unique prison escape twist!
+## 🧠 About the Game
 
-🕹️ Features
-Classic box-pushing puzzle mechanics
+Welcome to **Prison Escape Puzzle** — a clever **2D box-pushing puzzle game** where you must solve tricky spatial challenges to **escape your prison cell**.  
+Push boxes in the **correct order** and find your way out… but be careful — one wrong move, and you might get stuck!
 
-Restart option for trial and error
+---
 
-Smooth 2D movement and intuitive controls
+## 🎮 Platforms
 
-Clean pixel-art visuals and atmospheric prison theme
+- ✅ **PC**  
+- ✅ **Mobile (Android)**
 
-Built entirely in Godot Engine
+---
 
-🚀 How to Play
-Use arrow keys or WASD to move the player
+## 🛠️ Built With
 
-Push boxes onto marked tiles
+- **Godot Engine**
+- **GDScript**
+- **2D Tilemaps**
+- **Custom Puzzle Logic**
 
-Solve the puzzle to unlock the next level
+---
 
-Don’t trap yourself!
+## 📦 Features
 
-🛠️ Technologies Used
-Godot Engine (GDScript)
+- ✅ Smooth mobile-friendly controls  
+- 🧩 Challenging handcrafted levels  
+- 🎧 Simple SFX and immersive visuals  
+- 💾 Lightweight and fast  
 
-2D physics and tilemap system
+---
 
-Scene-based architecture
+## 🤝 Contributions
 
-Custom pixel art assets
+Feel free to fork and open a PR!
 
-Game developed by Zeyad Mohamed
-(With Sop Helo OFC)
+---
+
+## 📧 Contact
+
+For any questions or collaboration:  
+**Zeyad Mohamed** — [xzyaddev@gmail.com](mailto:xzyaddev@gmail.com)
+
+---
+
+**🕹️ Play smart. Think ahead. Escape the prison.**
+
+(Thanks To Sop OFC)
